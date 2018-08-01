@@ -1,0 +1,11 @@
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp2.0\AnalisadorFotos.deps.json
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp2.0\AnalisadorFotos.runtimeconfig.json
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp2.0\AnalisadorFotos.runtimeconfig.dev.json
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp2.0\AnalisadorFotos.dll
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp2.0\AnalisadorFotos.pdb
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp2.0\AnalisadorFotos.csprojAssemblyReference.cache
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp2.0\AnalisadorFotos.csproj.CoreCompileInputs.cache
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp2.0\AnalisadorFotos.AssemblyInfoInputs.cache
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp2.0\AnalisadorFotos.AssemblyInfo.cs
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp2.0\AnalisadorFotos.dll
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp2.0\AnalisadorFotos.pdb

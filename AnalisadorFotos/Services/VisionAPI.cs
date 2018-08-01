@@ -24,11 +24,11 @@ namespace AnalisadorFotos.Services
         {
             var client = new HttpClient();
 
-            client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "28e8a21e1d3d4b348c1f90b2d5099392");
+            client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "cafda6d865aa4b56bc5b2753ec52d241");
 
             string requestParameters = "visualFeatures=Categories,Tags,Description,Faces,ImageType,Color,Adult";
 
-            string uri = @"https://westus.api.cognitive.microsoft.com/vision/v1.0/analyze?" + requestParameters;
+            string uri = @"https://brazilsouth.api.cognitive.microsoft.com/vision/v1.0/analyze?" + requestParameters;
 
             byte[] byteData = ImagemEmBytes(imageFilePath);
 

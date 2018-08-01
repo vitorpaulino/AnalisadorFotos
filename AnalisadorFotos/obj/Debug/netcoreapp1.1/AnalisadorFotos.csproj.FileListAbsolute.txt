@@ -7,3 +7,14 @@ c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorF
 c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.AssemblyInfo.cs
 c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.dll
 c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.pdb
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.deps.json
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.runtimeconfig.json
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.runtimeconfig.dev.json
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.dll
+D:\WS\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.pdb
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.csprojAssemblyReference.cache
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.csproj.CoreCompileInputs.cache
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.AssemblyInfoInputs.cache
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.AssemblyInfo.cs
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.dll
+D:\WS\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.pdb
