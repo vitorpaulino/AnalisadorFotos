@@ -1,0 +1,9 @@
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.deps.json
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.runtimeconfig.json
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.runtimeconfig.dev.json
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.dll
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\bin\Debug\netcoreapp1.1\AnalisadorFotos.pdb
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.csprojResolveAssemblyReference.cache
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.AssemblyInfo.cs
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.dll
+c:\users\vitor\documents\visual studio 2017\Projects\AnalisadorFotos\AnalisadorFotos\obj\Debug\netcoreapp1.1\AnalisadorFotos.pdb
